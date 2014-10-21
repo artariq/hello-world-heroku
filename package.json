@@ -1,0 +1,23 @@
+{
+  "name": "hello-world-heroku",
+  "version": "0.0.1",
+  "description": "Deploying node app onto heroku for first time",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artariq/hello-world-heroku"
+  },
+  "author": "Rushdan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artariq/hello-world-heroku/issues"
+  },
+  "homepage": "https://github.com/artariq/hello-world-heroku"
+  engines": {
+    "node": "0.10.x"
+  }
+}
