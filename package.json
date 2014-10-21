@@ -16,8 +16,8 @@
   "bugs": {
     "url": "https://github.com/artariq/hello-world-heroku/issues"
   },
-  "homepage": "https://github.com/artariq/hello-world-heroku"
-  engines": {
-    "node": "0.10.x"
+  "homepage": "https://github.com/artariq/hello-world-heroku",
+  "engines": {
+    "node": "0.10.29"
   }
 }
